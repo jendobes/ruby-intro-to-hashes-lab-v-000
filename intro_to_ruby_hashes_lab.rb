@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor(string)
-  actor_hash = {:name => "string"}
+  actor_hash = {:name => string}
 end
 
 def monopoly
